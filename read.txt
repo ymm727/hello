@@ -2,6 +2,6 @@ Creating a new branch is quick
 <<<<<<< HEAD
 i  loved  you and i will always love you.
 =======
-i  loved  you!!!
+I  loved  you!!!
 i want to forget you ,which can make me live a happier life!
 >>>>>>> dev
